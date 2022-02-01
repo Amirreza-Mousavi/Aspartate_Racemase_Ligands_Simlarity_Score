@@ -5,6 +5,6 @@
  Make sure to have installed *Rcpi* in your Rstudio IDE.
 
 # About the dataset
- Please refer to the readme section of (this repository)[https://github.com/Amirreza-Mousavi/Aspartate_Racemase_Ligands_Bioactivity_Prediction]
+ Please refer to the readme section of [this repository](https://github.com/Amirreza-Mousavi/Aspartate_Racemase_Ligands_Bioactivity_Prediction)
 
     
